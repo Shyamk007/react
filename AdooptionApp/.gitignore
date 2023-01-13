@@ -5,3 +5,6 @@ dist/
 .DS_Store
 coverage/
 .vscode
+../myproject1/
+../practice1/
+errors and warnings.txt
